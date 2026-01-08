@@ -2,7 +2,7 @@
 <div align="center">
   <img src="assets/readmeasset.png" width="100%" alt="Header Image" />
 </div>
-<img align='right' src="https://github.com/1995parham/1995parham/raw/master/assets/header.gif" width="230">
+<img align='right' src="assets/myoctacat.png" width="230">
 <p><em>Machine Learning Engineer focused on <a href="#">LLMs & AI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -149,24 +149,4 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pareekshithpalat&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="PareekshithPalat" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pareekshithpalat&theme=dark" alt="PareekshithPalat" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pareekshith1&label=Profile%20views&color=0e75b6&style=flat" alt="pareekshith1" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pareekshithpalat&show_icons=true&locale=en" alt="PareekshithPalat" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pareekshithpalat&show_icons=true&locale=en&layout=compact" alt="PareekshithPalat" />
-</div>
+<img src="https://raw.githubusercontent.com/PareekshithPalat/PareekshithPalat/output/snake.svg" alt="Snake animation" />
