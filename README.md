@@ -72,7 +72,9 @@ const pareekshith = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Always excited to collaborate on innovative AI projects or discuss the latest tech trends. Drop by and say hello! 🚀</b></em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>📬 Interested in collaborating on AI/ML projects, automation tools, or research-driven applications?  
+Reach out via LinkedIn or open an issue — happy to discuss.
+</b></em>
 
 ---
 <!--START_SECTION:waka-->
