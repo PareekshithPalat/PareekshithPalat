@@ -73,7 +73,74 @@ const pareekshith = {
 
 ---
 <!--START_SECTION:waka-->
-*⏳ WakaTime stats will appear here automatically after you push this code to GitHub and the Action runs for the first time.*
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.34%20million%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 3 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                34 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+🌆 Daytime                46 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+🌃 Evening                94 commits          ████████░░░░░░░░░░░░░░░░░   30.32 % 
+🌙 Night                  136 commits         ███████████░░░░░░░░░░░░░░   43.87 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   29 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.35 % 
+Tuesday                  20 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+Wednesday                28 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+Thursday                 33 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.65 % 
+Friday                   25 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
+Saturday                 98 commits          ████████░░░░░░░░░░░░░░░░░   31.61 % 
+Sunday                   77 commits          ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   12 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
+JavaScript               6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+TypeScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
+```
+
+
+
+
+ Last Updated on 08/01/2026 14:24:42 UTC
 <!--END_SECTION:waka-->
 
 
