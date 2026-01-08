@@ -80,13 +80,13 @@ const pareekshith = {
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PareekshithPalat&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="PareekshithPalat" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pareekshithpalat&theme=flat&no-frame=false&no-bg=true&margin-w=4" alt="PareekshithPalat" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=PareekshithPalat&theme=dark" alt="PareekshithPalat" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pareekshithpalat&theme=dark" alt="PareekshithPalat" />
 </div>
 
 <div align="center">
@@ -94,9 +94,9 @@ const pareekshith = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PareekshithPalat&show_icons=true&locale=en&theme=dark" alt="PareekshithPalat" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pareekshithpalat&show_icons=true&locale=en" alt="PareekshithPalat" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PareekshithPalat&show_icons=true&locale=en&layout=compact&theme=dark" alt="PareekshithPalat" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pareekshithpalat&show_icons=true&locale=en&layout=compact" alt="PareekshithPalat" />
 </div>
