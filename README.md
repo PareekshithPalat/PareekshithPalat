@@ -1,4 +1,7 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> നമസ്കാരം (Namaste)🙏🏻, I'm Pareekshith P! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<div align="center">
+  <img src="assets/readmeasset.png" width="100%" alt="Header Image" />
+</div>
 <img align='right' src="https://github.com/1995parham/1995parham/raw/master/assets/header.gif" width="230">
 <p><em>Machine Learning Engineer focused on <a href="#">LLMs & AI</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
