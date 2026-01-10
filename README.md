@@ -78,7 +78,9 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-44%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-45-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.34%20million%20lines%20of%20code-blue?style=flat)
 
@@ -121,14 +123,16 @@ Sunday                   60 commits          █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 37 mins             █████████████████████░░░░   84.10 % 
-YAML                     7 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.90 % 
+TypeScript               44 mins             ██████████░░░░░░░░░░░░░░░   41.47 % 
+Markdown                 37 mins             █████████░░░░░░░░░░░░░░░░   34.81 % 
+JavaScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.14 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 
 🔥 Editors: 
-Antigravity              44 mins             █████████████████████████   100.00 % 
+Antigravity              1 hr 47 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  44 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -144,7 +148,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 09/01/2026 01:30:09 UTC
+ Last Updated on 10/01/2026 01:27:16 UTC
 <!--END_SECTION:waka-->
 
 
