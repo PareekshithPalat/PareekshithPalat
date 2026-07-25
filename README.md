@@ -86,7 +86,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 6,708 Contributions in the Year 2026
+> 🏆 6,713 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,46 +94,6 @@ Reach out via LinkedIn or open an issue — happy to discuss.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2149 commits        ███████████░░░░░░░░░░░░░░   42.95 % 
-🌆 Daytime                793 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
-🌃 Evening                899 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-🌙 Night                  1163 commits        ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   585 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.69 % 
-Tuesday                  560 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Wednesday                655 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-Thursday                 691 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Friday                   676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.51 % 
-Saturday                 835 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Sunday                   1002 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-JavaScript               38 mins             ███████████░░░░░░░░░░░░░░   44.40 % 
-JSON                     23 mins             ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-Markdown                 12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-SQL                      9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-HTML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-
-🔥 Editors: 
-Antigravity IDE          1 hr 26 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -147,7 +107,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 02:30:22 UTC
+ Last Updated on 25/07/2026 02:28:45 UTC
 <!--END_SECTION:waka-->
 
 
