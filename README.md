@@ -78,6 +78,10 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2050%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2022%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.46%20million%20lines%20of%20code-blue?style=flat)
@@ -86,7 +90,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 6,942 Contributions in the Year 2026
+> 🏆 6,999 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -97,21 +101,21 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2167 commits        ███████████░░░░░░░░░░░░░░   42.48 % 
-🌆 Daytime                815 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-🌃 Evening                928 commits         █████░░░░░░░░░░░░░░░░░░░░   18.19 % 
-🌙 Night                  1191 commits        ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
+🌞 Morning                2171 commits        ███████████░░░░░░░░░░░░░░   42.36 % 
+🌆 Daytime                819 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+🌃 Evening                934 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
+🌙 Night                  1201 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
-Tuesday                  583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-Wednesday                667 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
-Thursday                 691 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Friday                   676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Saturday                 855 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
-Sunday                   1022 commits        █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Monday                   607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Tuesday                  583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
+Wednesday                679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Friday                   676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Saturday                 855 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
+Sunday                   1022 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
 ```
 
 
@@ -121,19 +125,35 @@ Sunday                   1022 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               4 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex CLI                4 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 4 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 2,141,503 Input Tokens, 5,843 Output Tokens
+
+💵 $10.88 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 7 AI Prompts
+
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 512 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -149,7 +169,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/07/2026 02:27:59 UTC
+ Last Updated on 30/07/2026 02:10:13 UTC
 <!--END_SECTION:waka-->
 
 
