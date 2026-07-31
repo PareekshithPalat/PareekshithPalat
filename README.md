@@ -90,7 +90,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 6,999 Contributions in the Year 2026
+> 🏆 7,056 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,21 +101,21 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                2171 commits        ███████████░░░░░░░░░░░░░░   42.36 % 
-🌆 Daytime                819 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
-🌃 Evening                934 commits         █████░░░░░░░░░░░░░░░░░░░░   18.22 % 
-🌙 Night                  1201 commits        ██████░░░░░░░░░░░░░░░░░░░   23.43 % 
+🌞 Morning                2175 commits        ███████████░░░░░░░░░░░░░░   42.24 % 
+🌆 Daytime                825 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
+🌃 Evening                940 commits         █████░░░░░░░░░░░░░░░░░░░░   18.26 % 
+🌙 Night                  1209 commits        ██████░░░░░░░░░░░░░░░░░░░   23.48 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Tuesday                  583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.38 % 
-Wednesday                679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
-Thursday                 703 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-Friday                   676 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
-Saturday                 855 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-Sunday                   1022 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Monday                   607 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+Tuesday                  583 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Wednesday                679 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
+Thursday                 717 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Friday                   686 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 855 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Sunday                   1022 commits        █████░░░░░░░░░░░░░░░░░░░░   19.85 % 
 ```
 
 
@@ -125,35 +125,36 @@ Sunday                   1022 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 mins              █████████████████████████   100.00 % 
+TypeScript               1 min               ████████████████████████░   97.98 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 
 🔥 Editors: 
-Codex CLI                4 mins              █████████████████████████   100.00 % 
+Antigravity IDE          1 min               █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  1 min               █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (100.0%)
+⏱ AI Coding Time: 1 min (100.0%)
 
-✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,141,503 Input Tokens, 5,843 Output Tokens
+🔤 0 Input Tokens, 0 Output Tokens
 
-💵 $10.88 Estimated AI Cost This Week
+💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 7 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   4 lines             █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 512 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 0% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 377 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -169,7 +170,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 30/07/2026 02:10:13 UTC
+ Last Updated on 31/07/2026 02:37:07 UTC
 <!--END_SECTION:waka-->
 
 
