@@ -78,10 +78,6 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2051%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2023%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.47%20million%20lines%20of%20code-blue?style=flat)
@@ -90,7 +86,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7,305 Contributions in the Year 2026
+> 🏆 7,337 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -98,65 +94,6 @@ Reach out via LinkedIn or open an issue — happy to discuss.
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                2197 commits        ██████████░░░░░░░░░░░░░░░   41.81 % 
-🌆 Daytime                847 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-🌃 Evening                974 commits         █████░░░░░░░░░░░░░░░░░░░░   18.53 % 
-🌙 Night                  1237 commits        ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
-Tuesday                  595 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-Wednesday                685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Thursday                 719 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Friday                   698 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Saturday                 879 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
-Sunday                   1046 commits        █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-TypeScript               1 min               ████████████████████████░   97.98 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-
-🔥 Editors: 
-Antigravity IDE          1 min               █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 1 min (100.0%)
-
-✍️ 4 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 1 AI Prompts
-
-Gemini                   4 lines             █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 377 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -170,7 +107,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 02:24:16 UTC
+ Last Updated on 07/08/2026 02:34:23 UTC
 <!--END_SECTION:waka-->
 
 
