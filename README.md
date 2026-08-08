@@ -78,6 +78,10 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-55%20hrs%2051%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-29%20hrs%2023%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.47%20million%20lines%20of%20code-blue?style=flat)
@@ -86,7 +90,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 7,337 Contributions in the Year 2026
+> 🏆 7,341 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -94,6 +98,48 @@ Reach out via LinkedIn or open an issue — happy to discuss.
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2203 commits        ██████████░░░░░░░░░░░░░░░   41.79 % 
+🌆 Daytime                851 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌃 Evening                978 commits         █████░░░░░░░░░░░░░░░░░░░░   18.55 % 
+🌙 Night                  1239 commits        ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   633 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Tuesday                  595 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+Wednesday                685 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Thursday                 729 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Friday                   702 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+Saturday                 881 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+Sunday                   1046 commits        █████░░░░░░░░░░░░░░░░░░░░   19.84 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -107,7 +153,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026 02:34:23 UTC
+ Last Updated on 08/08/2026 01:23:11 UTC
 <!--END_SECTION:waka-->
 
 
