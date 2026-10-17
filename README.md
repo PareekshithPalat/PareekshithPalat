@@ -90,7 +90,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 9,816 Contributions in the Year 2026
+> 🏆 9,846 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,21 +101,21 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4539 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
-🌆 Daytime                2856 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌃 Evening                3009 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
-🌙 Night                  3565 commits        ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
+🌞 Morning                4543 commits        ████████░░░░░░░░░░░░░░░░░   32.49 % 
+🌆 Daytime                2858 commits        █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
+🌃 Evening                3011 commits        █████░░░░░░░░░░░░░░░░░░░░   21.54 % 
+🌙 Night                  3569 commits        ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1757 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Tuesday                  1697 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Wednesday                1914 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Thursday                 1814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Friday                   1853 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 2297 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
-Sunday                   2637 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Monday                   1757 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Tuesday                  1697 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
+Wednesday                1914 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Thursday                 1814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
+Friday                   1859 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Saturday                 2303 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+Sunday                   2637 commits        █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
 ```
 
 
@@ -125,39 +125,36 @@ Sunday                   2637 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   19 mins             ██████████████░░░░░░░░░░░   55.44 % 
-Bash                     7 mins              █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Rust                     5 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Markdown                 2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Python                   3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Claude Code              34 mins             ████████████████████████░   96.43 % 
-Antigravity IDE          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Claude Code              2 mins              ████████████████░░░░░░░░░   62.10 % 
+Antigravity IDE          1 min               █████████░░░░░░░░░░░░░░░░   37.90 % 
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 35 mins (100.0%)
+⏱ AI Coding Time: 3 mins (100.0%)
 
-✍️ 1,695 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 542,237 Input Tokens, 110,348 Output Tokens
+🔤 51,569 Input Tokens, 459 Output Tokens
 
-💵 $12.84 Estimated AI Cost This Week
+💵 $0.24 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 4 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
-Opus                     1,696 lines         █████████████████████████   100.00 % 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 185 characters per prompt
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 38 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -173,7 +170,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2026 03:09:33 UTC
+ Last Updated on 17/10/2026 03:01:36 UTC
 <!--END_SECTION:waka-->
 
 
