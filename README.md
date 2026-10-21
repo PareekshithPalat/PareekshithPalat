@@ -90,7 +90,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 9,920 Contributions in the Year 2026
+> 🏆 9,943 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,21 +101,21 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4551 commits        ████████░░░░░░░░░░░░░░░░░   32.48 % 
-🌆 Daytime                2866 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-🌃 Evening                3021 commits        █████░░░░░░░░░░░░░░░░░░░░   21.56 % 
-🌙 Night                  3573 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+🌞 Morning                4551 commits        ████████░░░░░░░░░░░░░░░░░   32.46 % 
+🌆 Daytime                2868 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌃 Evening                3025 commits        █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
+🌙 Night                  3576 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Tuesday                  1703 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Wednesday                1914 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Thursday                 1814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Friday                   1859 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
-Saturday                 2311 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Sunday                   2647 commits        █████░░░░░░░░░░░░░░░░░░░░   18.89 % 
+Monday                   1762 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.57 % 
+Tuesday                  1709 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Wednesday                1918 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Thursday                 1814 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+Friday                   1859 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
+Saturday                 2311 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
+Sunday                   2647 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 ```
 
 
@@ -125,52 +125,53 @@ Sunday                   2647 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   3 mins              █████████████████████████   100.00 % 
+Python                   5 mins              ███████████████████░░░░░░   75.19 % 
+Other                    1 min               ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
 
 🔥 Editors: 
-Claude Code              2 mins              ████████████████░░░░░░░░░   62.10 % 
-Antigravity IDE          1 min               █████████░░░░░░░░░░░░░░░░   37.90 % 
+Claude Code              4 mins              ████████████████░░░░░░░░░   64.04 % 
+Antigravity IDE          2 mins              █████████░░░░░░░░░░░░░░░░   35.96 % 
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 mins (100.0%)
+⏱ AI Coding Time: 7 mins (100.0%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 51,569 Input Tokens, 459 Output Tokens
+🔤 52,930 Input Tokens, 1,296 Output Tokens
 
-💵 $0.24 Estimated AI Cost This Week
+💵 $0.31 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 2 AI Sessions, 4 AI Prompts
 
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📝 Concise Prompter — average 38 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📝 Concise Prompter — average 18 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   30.43 % 
-TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91 % 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+Python                   14 repos            ████████░░░░░░░░░░░░░░░░░   31.11 % 
+TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+JavaScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 ```
 
 
 
 
- Last Updated on 20/10/2026 03:25:38 UTC
+ Last Updated on 21/10/2026 03:20:50 UTC
 <!--END_SECTION:waka-->
 
 
