@@ -90,7 +90,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 9,994 Contributions in the Year 2026
+> 🏆 10,009 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,21 +101,21 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4557 commits        ████████░░░░░░░░░░░░░░░░░   32.45 % 
-🌆 Daytime                2872 commits        █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-🌃 Evening                3031 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
-🌙 Night                  3582 commits        ██████░░░░░░░░░░░░░░░░░░░   25.51 % 
+🌞 Morning                4559 commits        ████████░░░░░░░░░░░░░░░░░   32.45 % 
+🌆 Daytime                2874 commits        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
+🌃 Evening                3033 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+🌙 Night                  3582 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1762 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.55 % 
+Monday                   1762 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
 Tuesday                  1709 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
 Wednesday                1924 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Thursday                 1824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Friday                   1865 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Saturday                 2311 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Sunday                   2647 commits        █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
+Thursday                 1824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Friday                   1869 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
+Saturday                 2313 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Sunday                   2647 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
 ```
 
 
@@ -125,33 +125,36 @@ Sunday                   2647 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   5 mins              █████████████████████████   100.00 % 
+Python                   5 mins              ██████████████████░░░░░░░   73.77 % 
+Java                     2 mins              ███████░░░░░░░░░░░░░░░░░░   26.23 % 
 
 🔥 Editors: 
-Claude Code              5 mins              █████████████████████████   100.00 % 
+Claude Code              5 mins              ██████████████████░░░░░░░   73.77 % 
+Antigravity CLI          2 mins              ███████░░░░░░░░░░░░░░░░░░   26.23 % 
 
 💻 Operating System: 
-Windows                  5 mins              █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 5 mins (100.0%)
+⏱ AI Coding Time: 7 mins (100.0%)
 
 ✍️ 227 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 308,158 Input Tokens, 31,502 Output Tokens
+🔤 1,052,350 Input Tokens, 115,381 Output Tokens
 
-💵 $2.90 Estimated AI Cost This Week
+💵 $5.39 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 2 AI Prompts
 
 Opus                     227 lines           █████████████████████████   100.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 2,125 characters per prompt
+📚 Verbose Prompter — average 2,910 characters per prompt
 🎯 One-Shot Prompter — average 1 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
@@ -169,7 +172,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026 03:25:04 UTC
+ Last Updated on 24/10/2026 03:18:42 UTC
 <!--END_SECTION:waka-->
 
 
