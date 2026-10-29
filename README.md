@@ -90,7 +90,7 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 10,117 Contributions in the Year 2026
+> 🏆 10,141 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,21 +101,21 @@ Reach out via LinkedIn or open an issue — happy to discuss.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                4571 commits        ████████░░░░░░░░░░░░░░░░░   32.44 % 
-🌆 Daytime                2884 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
-🌃 Evening                3045 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
-🌙 Night                  3592 commits        ██████░░░░░░░░░░░░░░░░░░░   25.49 % 
+🌞 Morning                4573 commits        ████████░░░░░░░░░░░░░░░░░   32.43 % 
+🌆 Daytime                2886 commits        █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+🌃 Evening                3047 commits        █████░░░░░░░░░░░░░░░░░░░░   21.61 % 
+🌙 Night                  3596 commits        ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1774 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
+Monday                   1774 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
 Tuesday                  1717 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Wednesday                1928 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
-Thursday                 1824 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Friday                   1869 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.26 % 
-Saturday                 2319 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
-Sunday                   2661 commits        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
+Wednesday                1932 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+Thursday                 1830 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Friday                   1869 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Saturday                 2319 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
+Sunday                   2661 commits        █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
 ```
 
 
@@ -125,36 +125,38 @@ Sunday                   2661 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 22 mins             ████████████████████░░░░░   79.65 % 
-Python                   5 mins              █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Markdown                 49 mins             ██████████░░░░░░░░░░░░░░░   38.35 % 
+JavaScript               26 mins             █████░░░░░░░░░░░░░░░░░░░░   20.47 % 
+Git Config               22 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.19 % 
+TypeScript               9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Python                   9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 🔥 Editors: 
-Claude Code              28 mins             █████████████████████████   100.00 % 
+Claude Code              2 hrs 9 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  28 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 mins (100.0%)
+⏱ AI Coding Time: 2 hrs 9 mins (100.0%)
 
-✍️ 227 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,064 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 898,707 Input Tokens, 41,694 Output Tokens
+🔤 1,790,768 Input Tokens, 154,339 Output Tokens
 
-💵 $7.43 Estimated AI Cost This Week
+💵 $21.61 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 11 AI Prompts
 
-Opus                     227 lines           █████████████████████████   100.00 % 
+Opus                     1,076 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 577 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📚 Verbose Prompter — average 2,187 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -171,7 +173,7 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/10/2026 04:02:15 UTC
+ Last Updated on 29/10/2026 04:24:50 UTC
 <!--END_SECTION:waka-->
 
 
